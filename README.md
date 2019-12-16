@@ -1,6 +1,6 @@
-Team Petal
-website: www.petalgarden.000webhostapp.com/
+Team Petal 
+website: https://petalgarden.000webhostapp.com/ 
 Neil John 
-Swarup Gummadi
-Pratheek SB
-Zaahir Ahmed
+Swarup Gummadi 
+Pratheek SB 
+Zaahir Ahmed 
