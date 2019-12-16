@@ -1,0 +1,83 @@
+body{
+  background-image: url('/Images/bg3.jpg');
+  background-repeat: no-repeat;
+  /*background-size: 1538px 800px;*/
+  background-attachment: fixed;
+  background-size: cover;
+  z-index: -1; 
+
+}
+.d0{
+  float: left;
+  width: 30px;
+  height: 40px;
+  border:1px dotted grey;
+
+}
+ .d1{
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  border-right: dotted black;
+ }
+ div.scrollmenu {
+  
+  overflow: scroll;
+  white-space: nowrap;
+  margin:auto;
+  width: 620px;
+  border:2px solid black;
+}
+
+  #gridbody{
+  	height: 380px;
+  	width: 620px;
+    background-image: url('/Images/gridbg.jpeg');
+    background-repeat: no-repeat;
+    background-size: contain 200px;
+    
+  	border: 2px solid black;
+  	margin:auto;
+}
+
+#menu{
+	position: absolute;
+  left:1271px;
+  top:104px; 
+  margin: 0 auto;
+	border:solid 2px black;
+	width:100px;
+}
+.plant_name{
+	display: block;
+	float: initial;
+	
+}
+footer{
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+        height: 100px;
+        margin: auto;
+      }
+.right{
+        float: right;
+      }
+      .left{
+        float: left;
+      }
+#logo{
+  position: absolute;
+  height: 100px;
+  margin-top: -20px;
+ }
+ #selection{
+    
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align:center;
+    
+ }
